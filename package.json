@@ -22,7 +22,7 @@
     "validator": "^13.7.0"
   },
   "engines": {
-    "node": "16.13.1"
+    "node": "10.18.0"
   },
   "devDependencies": {
     "env-cmd": "^10.1.0",
