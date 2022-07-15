@@ -2,6 +2,6 @@
 
 Stacks utilizadas:
 
-Nodejs, express, sendgrid, jsonwebtoken, bcrypt, mongo, mongoose, jest.
+Nodejs, express, sendgrid, jsonwebtoken, bcrypt, mongodb, mongoose, jest.
 
 API Back-end para cadastro de tarefas por usuário.
